@@ -14,11 +14,11 @@ Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde
 
 
 
-\```
+```
 
 git clone https://github.com/melihBA/kodluyoruzilkrepo.git
 
-\```
+```
 
 
 
@@ -32,13 +32,13 @@ Linux için:
 
 
 
-\```
+```
 
 cd kodluyoruzilkrepo
 
 code .
 
-\```
+```
 
 
 
