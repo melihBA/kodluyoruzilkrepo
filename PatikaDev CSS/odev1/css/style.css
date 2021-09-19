@@ -1,0 +1,39 @@
+body {
+    background-color: #FFF8E5;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    
+}
+
+.footer-fc {
+    color:#E05D5D;
+    text-align: center;
+    list-style-position: inside;
+    margin: auto;
+    width: 15%;
+    border: 1px solid rgb(121, 131, 121);
+    padding: 5px;
+}
+
+h1, h2, h3 {
+    color:#FFB344;
+}
+
+h1 {
+    font-size: 4em;
+    text-align: center;
+}
+
+h3 {
+    font-style: oblique;
+}
+
+p {
+    color:#00A19D;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
